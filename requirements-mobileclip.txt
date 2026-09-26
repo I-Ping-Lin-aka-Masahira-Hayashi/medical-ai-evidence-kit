@@ -1,0 +1,2 @@
+-r requirements.txt
+mobileclip @ git+https://github.com/apple-aiml-research/ml-mobileclip.git@48faa0fea4b08d74188b3841771aca6ff2c92852
